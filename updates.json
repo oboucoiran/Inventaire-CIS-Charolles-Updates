@@ -1,0 +1,10 @@
+{
+  "appName": "Inventaire CIS Charolles",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/oboucoiran/Inventaire-CIS-Charolles-Updates/releases/download/v1.1/InventaireCIS-Charolles-v1.1.apk",
+  "releaseDate": "2026-08-23",
+  "title": "Mise à jour 1.1 disponible",
+  "description": "Mise à jour de l'application Inventaire CIS Charolles.",
+  "mandatory": false
+}
