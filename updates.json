@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/oboucoiran/Inventaire-CIS-Charolles-Updates/releases/download/v1.4/InventaireCIS-Charolles-v1.4.apk",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/oboucoiran/Inventaire-CIS-Charolles-Updates/releases/download/v1.5/InventaireCIS-Charolles-v1.5.apk",
   "releaseDate": "2026-08-26",
-  "title": "Mise à jour 1.4 disponible",
-  "description": "Ajout du lot tronçonnage, du module Étagères et du contrôle de fonctionnement des matériels.",
+  "title": "Mise à jour 1.5 disponible",
+  "description": "Ajout du contrôle préalable des véhicules : niveaux, carrosserie, anomalies et intégration aux archives. Corrections du calcul des matériels manquants et du test de fonctionnement.",
   "mandatory": false
 }
