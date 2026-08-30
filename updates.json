@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/oboucoiran/Inventaire-CIS-Charolles-Updates/releases/download/v1.6/InventaireCIS-Charolles-v1.6.apk",
-  "releaseDate": "2026-08-27",
-  "title": "Mise à jour 1.6 disponible",
-  "description": "Ajout du contrôle carrosserie des véhicules, nouveaux lots Épuisement n°1 et Tenue intempérie, réorganisation des kits et corrections diverses.",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/oboucoiran/Inventaire-CIS-Charolles-Updates/releases/download/v1.7/InventaireCIS-Charolles-v1.7.apk",
+  "releaseDate": "2026-08-30",
+  "title": "Mise à jour 1.7 disponible",
+  "description": "Ajout du suivi des dernières vérifications des véhicules et des lots, indicateurs de couleur et modification de son propre inventaire pendant 2 heures.",
   "mandatory": false
 }
