@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/oboucoiran/Inventaire-CIS-Charolles-Updates/releases/download/v1.10/Inventaire.CIS.Charolles.v1.10.apk",
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/oboucoiran/Inventaire-CIS-Charolles-Updates/releases/download/v1.11/Inventaire.CIS.Charolles.v1.11.apk",
   "releaseDate": "2026-09-02",
-  "title": "Mise à jour 1.10 disponible",
-  "description": "Ajout des organes de sécurité, du suivi des recomplètements et des vérifications thermiques. Amélioration du contrôle des véhicules et ajout du contrôle des feux de la MPR.",
+  "title": "Mise à jour 1.11 disponible",
+  "description": "Renommage des tronçonneuses en Tronçonneuse FPTSR et Tronçonneuse OD. Remplacement de Fonctionnement par Aspiration pour la pompe FPTSR.",
   "mandatory": false
 }
