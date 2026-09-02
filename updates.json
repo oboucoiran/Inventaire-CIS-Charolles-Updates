@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/oboucoiran/Inventaire-CIS-Charolles-Updates/releases/download/v1.8/InventaireCIS-Charolles-v1.8.apk",
-  "releaseDate": "2026-08-30",
-  "title": "Mise à jour 1.8 disponible",
-  "description": "Correction de la rotation de l'écran pour conserver l'inventaire en cours et mise à jour des niveaux à contrôler sur les véhicules.",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/oboucoiran/Inventaire-CIS-Charolles-Updates/releases/download/v1.9/InventaireCIS-Charolles-v1.9.apk",
+  "releaseDate": "2026-09-02",
+  "title": "Mise à jour 1.9 disponible",
+  "description": "Amélioration du contrôle des véhicules : les observations restent vides lorsque les niveaux et la carrosserie sont conformes, tout en conservant le détail complet dans les archives. Ajout d'une consigne pour les anomalies de carrosserie.",
   "mandatory": false
 }
