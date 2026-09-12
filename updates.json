@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 22,
-  "versionName": "1.20",
+  "versionCode": 23,
+  "versionName": "1.21",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
   "releaseDate": "2026-09-13",
-  "title": "Mise à jour 1.20 disponible",
-  "description": "Envoi automatique des observations lors de l'archivage de l'inventaire et suppression de l'envoi manuel.",
+  "title": "Mise à jour 1.21 disponible",
+  "description": "Correction de l'envoi automatique des mails d'anomalie lors de la validation et de l'archivage de l'inventaire.",
   "mandatory": false
 }
