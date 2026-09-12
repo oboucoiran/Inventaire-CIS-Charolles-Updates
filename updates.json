@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 21,
-  "versionName": "1.19",
+  "versionCode": 22,
+  "versionName": "1.20",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
-  "releaseDate": "2026-09-11",
-  "title": "Mise à jour 1.19 disponible",
-  "description": "Correction de l'affichage des vues droite et gauche des véhicules lors du contrôle carrosserie.",
+  "releaseDate": "2026-09-13",
+  "title": "Mise à jour 1.20 disponible",
+  "description": "Envoi automatique des observations lors de l'archivage de l'inventaire et suppression de l'envoi manuel.",
   "mandatory": false
 }
