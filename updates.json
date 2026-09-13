@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 25,
-  "versionName": "1.22",
+  "versionCode": 27,
+  "versionName": "1.24",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
   "releaseDate": "2026-09-13",
-  "title": "Mise à jour 1.22 disponible",
-  "description": "Ajout du contrôle des bouteilles O², amélioration de l'inventaire VL et correction de l'envoi automatique des mails d'anomalie lors de la validation et de l'archivage.",
+  "title": "Mise à jour 1.24 disponible",
+  "description": "Correction de la détection des anomalies du contrôle préalable des véhicules afin qu'un inventaire avec anomalie soit bien signalé comme « à vérifier » lors de l'archivage et des notifications.",
   "mandatory": false
 }
