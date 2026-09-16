@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 27,
-  "versionName": "1.24",
+  "versionCode": 28,
+  "versionName": "1.25",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
-  "releaseDate": "2026-09-13",
-  "title": "Mise à jour 1.24 disponible",
-  "description": "Correction de la détection des anomalies du contrôle préalable des véhicules afin qu'un inventaire avec anomalie soit bien signalé comme « à vérifier » lors de l'archivage et des notifications.",
+  "releaseDate": "2026-09-16",
+  "title": "Mise à jour 1.25 disponible",
+  "description": "Amélioration de la visibilité de la couleur O² sélectionnée et possibilité, depuis les archives, de modifier également les niveaux, la carrosserie et les organes de sécurité d'un inventaire.",
   "mandatory": false
 }
