@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 28,
-  "versionName": "1.25",
+  "versionCode": 30,
+  "versionName": "1.27",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
-  "releaseDate": "2026-09-16",
-  "title": "Mise à jour 1.25 disponible",
-  "description": "Amélioration de la visibilité de la couleur O² sélectionnée et possibilité, depuis les archives, de modifier également les niveaux, la carrosserie et les organes de sécurité d'un inventaire.",
+  "releaseDate": "2026-10-03",
+  "title": "Mise à jour 1.27 disponible",
+  "description": "Mise à jour des contrôles de niveaux des véhicules, correction des libellés des liquides de direction, amélioration de la modification des inventaires archivés et harmonisation de la remise avec les anciens inventaires Étagères.",
   "mandatory": false
 }
