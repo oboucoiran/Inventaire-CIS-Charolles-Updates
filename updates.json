@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 35,
-  "versionName": "1.32",
+  "versionCode": 36,
+  "versionName": "1.33",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
   "releaseDate": "2026-10-06",
-  "title": "Mise à jour 1.32 disponible",
-  "description": "Correction du placement du champ facultatif « Fait avec » : sur tous les véhicules, le choix du collègue apparaît désormais dans le contrôle du véhicule avant les niveaux. Le binôme reste conservé jusqu'à l'archivage.",
+  "title": "Mise à jour 1.33 disponible",
+  "description": "Correction des photos de carrosserie : chaque véhicule affiche désormais ses propres vues avant, arrière, gauche et droite au lieu des images du VSAV.",
   "mandatory": false
 }
