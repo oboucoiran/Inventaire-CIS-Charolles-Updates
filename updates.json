@@ -1,10 +1,10 @@
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 34,
-  "versionName": "1.31",
+  "versionCode": 35,
+  "versionName": "1.32",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
   "releaseDate": "2026-10-06",
-  "title": "Mise à jour 1.31 disponible",
-  "description": "Ajout du champ facultatif « Fait avec » sur tous les inventaires véhicules, kits, lots et vérification thermique, avec affichage du binôme dans les archives.",
+  "title": "Mise à jour 1.32 disponible",
+  "description": "Correction du placement du champ facultatif « Fait avec » : sur tous les véhicules, le choix du collègue apparaît désormais dans le contrôle du véhicule avant les niveaux. Le binôme reste conservé jusqu'à l'archivage.",
   "mandatory": false
 }
