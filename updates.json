@@ -1,11 +1,11 @@
 
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 37,
-  "versionName": "1.34",
+  "versionCode": 38,
+  "versionName": "1.35",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
-  "date de sortie": "2026-10-09",
-  "titre": "Mise à jour 1.34 disponible",
-  "description": "Possibilité de sélectionner plusieurs collègues dans Fait avec sur tous les inventaires (véhicules, kits et lots). Affichage des participants dans les archives et amélioration de la synchronisation PC/Android.",
+  "date de sortie": "10/10/2026",
+  "titre": "Correction des notifications par e-mail",
+  "description": "Les e-mails sont désormais envoyés uniquement lorsqu'une observation est saisie. Suppression des alertes automatiques inutiles. Archivage et notifications Push conservés. Sélection de plusieurs SPV maintenue.",
   "obligatoire": false
 }
