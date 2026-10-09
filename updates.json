@@ -1,10 +1,11 @@
+
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 36,
-  "versionName": "1.33",
+  "versionCode": 37,
+  "versionName": "1.34",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
-  "releaseDate": "2026-10-06",
-  "title": "Mise à jour 1.33 disponible",
-  "description": "Correction des photos de carrosserie : chaque véhicule affiche désormais ses propres vues avant, arrière, gauche et droite au lieu des images du VSAV.",
-  "mandatory": false
+  "date de sortie": "2026-10-09",
+  "titre": "Mise à jour 1.34 disponible",
+  "description": "Possibilité de sélectionner plusieurs collègues dans Fait avec sur tous les inventaires (véhicules, kits et lots). Affichage des participants dans les archives et amélioration de la synchronisation PC/Android.",
+  "obligatoire": false
 }
