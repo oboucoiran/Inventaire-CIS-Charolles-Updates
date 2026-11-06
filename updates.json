@@ -1,11 +1,11 @@
 
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 38,
-  "versionName": "1.35",
+  "versionCode": 39,
+  "versionName": "1.36",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
-  "date de sortie": "10/10/2026",
-  "titre": "Correction des notifications par e-mail",
-  "description": "Les e-mails sont désormais envoyés uniquement lorsqu'une observation est saisie. Suppression des alertes automatiques inutiles. Archivage et notifications Push conservés. Sélection de plusieurs SPV maintenue.",
+  "date de sortie": "06/11/2026",
+  "titre": "Mise à jour version 1.36",
+  "description": "Nouveau bandeau d'accueil et restauration complète de l'inventaire VL.",
   "obligatoire": false
 }
