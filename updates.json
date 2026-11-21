@@ -1,11 +1,11 @@
 
 {
   "appName": "Inventaire CIS Charolles",
-  "versionCode": 39,
-  "versionName": "1.36",
+  "versionCode": 40,
+  "versionName": "1.37",
   "apkUrl": "https://play.google.com/store/apps/details?id=fr.oboucoiran.inventairecischarolles",
-  "date de sortie": "06/11/2026",
-  "titre": "Mise à jour version 1.36",
-  "description": "Nouveau bandeau d'accueil et restauration complète de l'inventaire VL.",
+  "date de sortie": "21/11/2026",
+  "titre": "Mise à jour version 1.37",
+  "description": "Affichage de la prochaine désinfection du VSAV en rouge, avec calcul automatique tous les 28 jours.",
   "obligatoire": false
 }
